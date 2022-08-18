@@ -2,9 +2,9 @@
 
 Name of the Project
 
-•	Superstore sales data visualizations
+•	Superstore sales data visualizations (Only Visualization Part)
 
-Tool used for analysis 
+Tool used for Vizualization 
 
 •	Tableau 
 
